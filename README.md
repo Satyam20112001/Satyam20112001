@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/banner.jpg" alt="Satyam Singh - I build the systems businesses run on" width="100%"></p>
+
 <h1 align="center">Hi, I'm Satyam Singh 👋</h1>
 <p align="center"><b>Automation & MIS developer · Business systems on Google Workspace · Practical AI for operations</b></p>
 <p align="center">
@@ -17,6 +19,15 @@
 - **One system, two apps** – the same login for both, passwords synced safely, shared party master, and a PostgreSQL (Supabase) layer that takes the reading load off Google Sheets so many people can work at once, with screens that update by themselves.
 - **AI that reads documents** – supplier bills, transport LRs and weighbridge slips read by AI (Gemini in the cloud, Ollama on an office laptop as a backup), checked against rates, and learning from every correction.
 - **Automation everywhere** – WhatsApp and mail bridges, scheduled jobs, daily summaries, alerts when something is late, and housekeeping that keeps every Google file within its limits.
+
+
+### 🖼️ A look at the work (sample data)
+
+| Plant ERP – order to payment | AI reads supplier bills |
+|---|---|
+| <a href="https://github.com/Satyam20112001/erp-hrms-showcase"><img src="assets/erp.jpg" width="380"></a> | <a href="https://github.com/Satyam20112001/erp-hrms-showcase"><img src="assets/ai-bill.jpg" width="380"></a> |
+| **HRMS – people & payroll** | **QR Code Studio (open source)** |
+| <a href="https://github.com/Satyam20112001/erp-hrms-showcase"><img src="assets/hrms.jpg" width="380"></a> | <a href="https://github.com/Satyam20112001/App"><img src="assets/qr.jpg" width="380"></a> |
 
 ### 💼 Experience
 
