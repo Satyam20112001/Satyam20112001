@@ -63,6 +63,7 @@
 
 | Project | What it is |
 |---|---|
+| [**Business Automation Roadmap**](https://github.com/users/Satyam20112001/projects/2) | Public board of what I have built (Done), what I am building now and what is next – ERP, HRMS, data layer, AI and analytics. |
 | [**Plant ERP & HRMS showcase**](https://github.com/Satyam20112001/erp-hrms-showcase) | Screens and architecture of the two connected business apps I built – one login, AI bill reading, truck tracking, HR & sales portals (sample data). |
 | [**QR Code Studio**](https://github.com/Satyam20112001/App) | Streamlit app for print-ready QR codes – links, UPI payments, WhatsApp, Wi-Fi, contact cards – one by one or in bulk from a CSV. |
 
