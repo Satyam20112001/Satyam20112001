@@ -3,6 +3,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/satyam-singh-508210213/"><img src="https://img.shields.io/badge/LinkedIn-Satyam%20Singh-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:Satyam.singh152958@gmail.com"><img src="https://img.shields.io/badge/E--mail-Satyam.singh152958%40gmail.com-D14836?logo=gmail&logoColor=white" alt="E-mail"></a>
+  <a href="https://www.fiverr.com/satyam_singh_20"><img src="https://img.shields.io/badge/Hire%20me-Fiverr-1DBF73?logo=fiverr&logoColor=white" alt="Fiverr"></a>
   <img src="https://img.shields.io/badge/Based%20in-Delhi%2C%20India-555555" alt="Delhi, India">
 </p>
 <p align="center">I turn spreadsheets, mails and WhatsApp messages into working business software – for the plant, purchase, accounts, HR and sales teams of <b>KLJ Paraflex India Ltd.</b> (wires & cables).</p>
@@ -51,9 +52,10 @@
 
 | Project | What it is |
 |---|---|
+| [**Plant ERP & HRMS showcase**](https://github.com/Satyam20112001/erp-hrms-showcase) | Screens and architecture of the two connected business apps I built – one login, AI bill reading, truck tracking, HR & sales portals (sample data). |
 | [**QR Code Studio**](https://github.com/Satyam20112001/App) | Streamlit app for print-ready QR codes – links, UPI payments, WhatsApp, Wi-Fi, contact cards – one by one or in bulk from a CSV. |
 
-*Most of my work runs inside the company and stays private.*
+*The ERP and HRMS code stays private; the showcase has screenshots with sample data.* · Need something similar? **[Hire me on Fiverr](https://www.fiverr.com/satyam_singh_20)**
 
 ### 📊 Analytics work
 
