@@ -1,5 +1,10 @@
 <h1 align="center">Hi, I'm Satyam Singh 👋</h1>
 <p align="center"><b>Automation & MIS developer · Business systems on Google Workspace · Practical AI for operations</b></p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/satyam-singh-508210213/"><img src="https://img.shields.io/badge/LinkedIn-Satyam%20Singh-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:Satyam.singh152958@gmail.com"><img src="https://img.shields.io/badge/E--mail-Satyam.singh152958%40gmail.com-D14836?logo=gmail&logoColor=white" alt="E-mail"></a>
+  <img src="https://img.shields.io/badge/Based%20in-Delhi%2C%20India-555555" alt="Delhi, India">
+</p>
 <p align="center">I turn spreadsheets, mails and WhatsApp messages into working business software – for the plant, purchase, accounts, HR and sales teams of <b>KLJ Paraflex India Ltd.</b> (wires & cables).</p>
 
 ---
@@ -12,8 +17,22 @@
 - **AI that reads documents** – supplier bills, transport LRs and weighbridge slips read by AI (Gemini in the cloud, Ollama on an office laptop as a backup), checked against rates, and learning from every correction.
 - **Automation everywhere** – WhatsApp and mail bridges, scheduled jobs, daily summaries, alerts when something is late, and housekeeping that keeps every Google file within its limits.
 
+### 💼 Experience
+
+| Role | Company | Period |
+|---|---|---|
+| **Data Analyst – MIS & Business Automation** | KLJ Paraflex India Ltd., Delhi | Jan 2026 – present |
+| **Operations Analyst** · Data Analytics Intern | Collegedunia, Gurugram | Mar 2025 – Jan 2026 |
+| **System Administrator** | Energy Scape Renewables LLP, Noida | Oct 2023 – Mar 2025 |
+| **IT Home Agent Specialist** | Teleperformance, Gurugram | Nov 2022 – Oct 2023 |
+| **Network Help Desk Engineer** | Microsense Networks, Delhi | Apr 2021 – Nov 2022 |
+
 ### 🧰 Tools I use
 
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Advanced%20Excel-217346?logo=microsoftexcel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
 ![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?logo=google&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -36,6 +55,17 @@
 
 *Most of my work runs inside the company and stays private.*
 
+### 📊 Analytics work
+
+- **IPL Performance Analytics** (Power BI, Power Query) – 200,000+ ball-by-ball records, season / team / player drill-downs.
+- **Automobile Sales Dashboard** (Power BI, DAX) – 50,000+ transactions; revenue, margin, growth and market share.
+- **User Engagement & Revenue Dashboard** (Power BI) – DAU, WAU, MAU and retention for a gaming platform.
+- **Zomato Market Trends** (Python, SQL, Tableau) · **Credit Card Fraud Detection** (PostgreSQL, PL/pgSQL) · **Customer Purchase Analysis** (Pandas, Seaborn).
+
+### 🎓 Education & certifications
+
+B.Com., University of Delhi (2021) · Data Analytics Professional – Ducat (2025) · Full Stack Data Analytics – Uncodemy (2024) · Diploma in Hardware & Networking (2022)
+
 ### 🤝 Get in touch
 
-📧 [Satyam.singh152958@gmail.com](mailto:Satyam.singh152958@gmail.com)
+📧 [Satyam.singh152958@gmail.com](mailto:Satyam.singh152958@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/satyam-singh-508210213/)
